@@ -1,0 +1,1 @@
+# R2-A1-S7-Tarea-Resolucion-de-ejercicios-practicos-con-OpenCV
